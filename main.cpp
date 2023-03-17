@@ -19,3 +19,7 @@ int main() {
     }
     cout << endl;
 }
+
+void printBoard() {
+
+}

@@ -1,0 +1,10 @@
+Classes:
+ - board
+ - player
+ - pieces (+ class for each piece)
+ - move
+ - main (setup + run the game)
+
+ basic game (human vs human)
+
+ input: cmd line
